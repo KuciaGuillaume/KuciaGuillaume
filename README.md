@@ -1,6 +1,5 @@
 # Welcome on my github 💻
-![background](https://user-images.githubusercontent.com/91091263/144860094-25da21e7-e5b3-47c4-ba25-0bbebc14c62e.jpg)
-
+![background](https://user-images.githubusercontent.com/91091263/144860592-5ee30ab7-d1c4-4983-a210-b18f843188e6.jpg)
 ### Introduction
 - 📇 Name : `Guillaume`
 - 👨 Age : `18`
