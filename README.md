@@ -1,6 +1,17 @@
-### Kucia Guillaume 👋
+# Welcome on my github 💻
 
-<!--
+> 📇 Name : Guillaume
+> 
+> 👨 Age : 18
+> 
+> 🌆 City : Montpellier
+> 
+> 🏢 School : [Epitech](https://www.epitech.eu/) (Tech 1)
+
+### Introduction
+
+[contexte-developpement-applications-mobiles_73903-295](https://user-images.githubusercontent.com/91091263/144852873-a6708161-9447-4417-8483-d64047e1fc31.jpg)
+<!--!
 **KuciaGuillaume/KuciaGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
