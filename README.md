@@ -1,14 +1,12 @@
 # Welcome on my github 💻
-
-![Background](https://user-images.githubusercontent.com/91091263/144857005-3ae60fa6-0a32-4637-a370-76b768586b2c.jpg)
-
+![background](https://user-images.githubusercontent.com/91091263/144859540-eec2eb23-bf23-4f58-adc5-345f95e5e225.jpg)
 ### Introduction
 - 📇 Name : `Guillaume`
 - 👨 Age : `18`
 - 🌆 City : `Montpellier`
 - 🏢 School : [Epitech](https://www.epitech.eu/) (Tech 1)
 
-- 🌱 I’m currently learning [C language](https://fr.wikipedia.org/wiki/The_C_Programming_Language)
+- 🌱 I’m currently learning [C language](https://www.cprogramming.com/)
 - 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/)
 
 ### Portfolio
@@ -17,12 +15,14 @@
 > [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
 
 > [Other repo](https://github.com/KuciaGuillaume?tab=repositories)
+
+### 🧰 Languages and Tools I have tried :
+[![c](https://user-images.githubusercontent.com/91091263/144858700-d0791947-3af0-446e-90fe-d8843cd05169.png)](https://www.cprogramming.com/)
+
+
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuciaGuillaume&count_private=true&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuciaGuillaume&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
