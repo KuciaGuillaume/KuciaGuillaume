@@ -1,9 +1,11 @@
 # Welcome on my github 💻
 
+![Background](https://user-images.githubusercontent.com/91091263/144857005-3ae60fa6-0a32-4637-a370-76b768586b2c.jpg)
+
 ### Introduction
-- 📇 Name : Guillaume
-- 👨 Age : 18
-- 🌆 City : Montpellier
+- 📇 Name : `Guillaume`
+- 👨 Age : `18`
+- 🌆 City : `Montpellier`
 - 🏢 School : [Epitech](https://www.epitech.eu/) (Tech 1)
 
 - 🌱 I’m currently learning [C language](https://fr.wikipedia.org/wiki/The_C_Programming_Language)
@@ -16,8 +18,11 @@
 
 > [Other repo](https://github.com/KuciaGuillaume?tab=repositories)
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuciaGuillaume&count_private=true&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuciaGuillaume&count_private=true&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuciaGuillaume&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
