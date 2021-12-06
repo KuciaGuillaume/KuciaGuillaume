@@ -13,6 +13,8 @@
 > [My_hunter](https://github.com/KuciaGuillaume/My_hunter--CSFML-) (CSFML-linux)
 
 > [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
+
+> [Other repo](https://github.com/KuciaGuillaume?tab=repositories)
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuciaGuillaume&count_private=true&show_icons=true)
 
