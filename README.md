@@ -31,6 +31,9 @@
 [![godot](https://user-images.githubusercontent.com/91091263/144883993-58db7e29-3c9c-41c5-ad29-f6d2a32b8aac.png)](https://godotengine.org/)
 [![gamemaker](https://user-images.githubusercontent.com/91091263/144885379-80088c2a-3cb3-4514-ab2e-e328020b1796.png)](https://www.yoyogames.com/fr/gamemaker)
 [![xd](https://user-images.githubusercontent.com/91091263/144885842-44b0fee9-8e40-4439-8a6a-0c3d1135b59c.png)](https://www.adobe.com/fr/products/xd.html)
+[![javascript (2) (1)](https://user-images.githubusercontent.com/91091263/145627097-05cfbfdc-d9c8-4e40-943c-df5dc09ce9aa.png)](https://fr.wikipedia.org/wiki/JavaScript)
+[![ubuntu (1)](https://user-images.githubusercontent.com/91091263/145627308-0a008ae9-5529-4236-bc11-8151932b5695.png)](https://www.ubuntu-fr.org/)
+
 
 
 ## Stats
