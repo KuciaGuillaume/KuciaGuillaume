@@ -33,6 +33,7 @@
 [![xd](https://user-images.githubusercontent.com/91091263/144885842-44b0fee9-8e40-4439-8a6a-0c3d1135b59c.png)](https://www.adobe.com/fr/products/xd.html)
 [![javascript (2) (1)](https://user-images.githubusercontent.com/91091263/145627097-05cfbfdc-d9c8-4e40-943c-df5dc09ce9aa.png)](https://fr.wikipedia.org/wiki/JavaScript)
 [![ubuntu (1)](https://user-images.githubusercontent.com/91091263/145627308-0a008ae9-5529-4236-bc11-8151932b5695.png)](https://www.ubuntu-fr.org/)
+[![3769856-middle (1)](https://user-images.githubusercontent.com/91091263/145627561-745fddb6-6873-4293-b306-3e269cd4b1d6.png)](https://code.visualstudio.com/)
 
 
 
