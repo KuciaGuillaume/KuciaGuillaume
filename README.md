@@ -1,10 +1,11 @@
 # Welcome on my github 💻
-![background](https://user-images.githubusercontent.com/91091263/144860592-5ee30ab7-d1c4-4983-a210-b18f843188e6.jpg)
+![Untitled-Project](https://user-images.githubusercontent.com/91091263/145589529-4f9ffc42-a830-4779-94f9-a8838f70b2da.jpg)
+
 ### Introduction
 - 📇 Name : `Guillaume`
 - 👨 Age : `18`
 - 🌆 City : `Montpellier`
-- 🏢 School : [Epitech](https://www.epitech.eu/) (Tech 1)
+- 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 1)
 
 - 🌱 I’m currently learning [C language](https://www.cprogramming.com/)
 - 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/)
