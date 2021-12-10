@@ -23,7 +23,7 @@
 
 >[EPITECH](https://github.com/KuciaGuillaume/EPITECH) (You can find many of my EPITECH projects here) ([Epitech website](https://www.epitech.eu/))
 
-> [Other repo](https://github.com/KuciaGuillaume?tab=repositories)
+> [Other repository](https://github.com/KuciaGuillaume?tab=repositories)
 
 ### 🧰 Languages and Tools I have tried :
 [![c](https://user-images.githubusercontent.com/91091263/144858700-d0791947-3af0-446e-90fe-d8843cd05169.png)](https://www.cprogramming.com/)
