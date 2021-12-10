@@ -14,6 +14,8 @@
 
 > [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
 
+>[EPITECH](https://github.com/KuciaGuillaume/EPITECH)
+
 > [Other repo](https://github.com/KuciaGuillaume?tab=repositories)
 
 ### 🧰 Languages and Tools I have tried :
