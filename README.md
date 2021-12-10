@@ -10,6 +10,11 @@
 - 🌱 I’m currently learning [C language](https://www.cprogramming.com/)
 - 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/)
 
+### Collaborators
+> [Nathan Catalan](https://github.com/MIsTraleuh) (Epitech student)
+
+>[Nicolas Spijkerman](https://github.com/NickSpyker) (Epitech student)
+
 ### Portfolio
 > [My_hunter](https://github.com/KuciaGuillaume/My_hunter--CSFML-) (CSFML-linux)
 
