@@ -11,7 +11,7 @@
 - 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/)
 
 ### Collaborators
-> [Nathan Catalan](https://github.com/MIsTraleuh) (Epitech student)
+> [Nathan Catalan](https://github.com/CatalanNathan) (Epitech student)
 
 >[Nicolas Spijkerman](https://github.com/NickSpyker) (Epitech student)
 
