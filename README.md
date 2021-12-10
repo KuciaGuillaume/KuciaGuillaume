@@ -8,7 +8,8 @@
 - 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 1)
 
 - 🌱 I’m currently learning [C language](https://www.cprogramming.com/)
-- 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/)
+- 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/) 
+                       | [Discord](https://discord.com/) -> OneLife#8566
 
 ### Collaborators
 > [Nathan Catalan](https://github.com/CatalanNathan) (Epitech student)
