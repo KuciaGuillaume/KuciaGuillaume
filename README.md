@@ -23,7 +23,7 @@
 
 > [EPITECH](https://github.com/KuciaGuillaume/EPITECH) (You can find many of my EPITECH projects here) ([Epitech website](https://www.epitech.eu/)) -> [Github](https://github.com/EpitechPromo2026)
 
-> [MAKEFILE](https://github.com/KuciaGuillaume/MAKEFILE)
+> [Makefile](https://github.com/KuciaGuillaume/MAKEFILE) (You can use this Makefile easily)
 
 > [Other repository](https://github.com/KuciaGuillaume?tab=repositories)
 
