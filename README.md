@@ -17,11 +17,11 @@
 >[Nicolas Spijkerman](https://github.com/NickSpyker) (Epitech student)
 
 ### Portfolio
+> [EPITECH](https://github.com/KuciaGuillaume/EPITECH) (You can find many of my EPITECH projects here) ([Epitech website](https://www.epitech.eu/)) -> [Github](https://github.com/EpitechPromo2026)
+
 > [My_hunter](https://github.com/KuciaGuillaume/My_hunter--CSFML-) (CSFML-linux)
 
 > [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
-
-> [EPITECH](https://github.com/KuciaGuillaume/EPITECH) (You can find many of my EPITECH projects here) ([Epitech website](https://www.epitech.eu/)) -> [Github](https://github.com/EpitechPromo2026)
 
 > [Makefile](https://github.com/KuciaGuillaume/MAKEFILE) (You can use this Makefile easily)
 
