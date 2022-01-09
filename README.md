@@ -18,6 +18,8 @@
 
 > [My_hunter](https://github.com/KuciaGuillaume/My_hunter--CSFML-) (CSFML-linux)
 
+> [My_runner](https://github.com/KuciaGuillaume/EPITECH/tree/master/My_runner) (CSFML-linux)
+
 > [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
 
 > [Navy](https://github.com/KuciaGuillaume/EPITECH/tree/master/Navy) (Battleship game)
