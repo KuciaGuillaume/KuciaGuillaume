@@ -11,11 +11,6 @@
 - 📫 How to reach me: [KuciaGuillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/) 
                        | [Discord](https://discord.com/) -> OneLife#8566
 
-### Collaborators
-> [Nathan Catalan](https://github.com/CatalanNathan) (Epitech student)
-
->[Nicolas Spijkerman](https://github.com/NickSpyker) (Epitech student)
-
 ### Portfolio
 > [EPITECH](https://github.com/KuciaGuillaume/EPITECH) (You can find many of my EPITECH projects here) ([Epitech website](https://www.epitech.eu/)) -> [Github](https://github.com/EpitechPromo2026)
 
