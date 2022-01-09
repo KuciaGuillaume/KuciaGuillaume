@@ -39,7 +39,7 @@
 [<img width="32" alt="98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749 (1)" src="https://user-images.githubusercontent.com/91091263/145628331-5077139a-6baf-47c2-b257-acfed3a953b9.png">](https://code.visualstudio.com/)
 [![unity (1)](https://user-images.githubusercontent.com/91091263/145635166-161e0bd7-5e1a-4ef5-a1e4-6e34c5b5423a.png)](https://unity.com/fr)
 [![manette-de-jeu (1)](https://user-images.githubusercontent.com/91091263/148298690-626bce01-43a3-4eaa-a0fb-a7f8c5b0baca.png)](https://26.customprotocol.com/csfml/index.htm)
-[![ruby (1)](https://user-images.githubusercontent.com/91091263/148701692-28ae2ab9-f4ae-4a78-a594-d169e2f97ca4.png)](https://fr.wikipedia.org/wiki/Ruby)
+[![ruby (1)](https://user-images.githubusercontent.com/91091263/148701729-11c9c0dc-edc6-42b4-97ca-061d8e5c14e4.png)](https://fr.wikipedia.org/wiki/Ruby)
 
 
 
