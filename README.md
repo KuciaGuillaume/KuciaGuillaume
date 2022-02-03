@@ -20,6 +20,8 @@
 
 > [My_runner](https://github.com/KuciaGuillaume/EPITECH/tree/master/My_runner) (CSFML-linux)
 
+> [Life After Death](https://github.com/KuciaGuillaume/Game-Jam-2) (Second GameJam) (GML->Windows) -> [itch.io](https://life-after-death.itch.io/life-after-death)
+
 > [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
 
 > [Navy](https://github.com/KuciaGuillaume/EPITECH/tree/master/Navy) (Battleship game)
