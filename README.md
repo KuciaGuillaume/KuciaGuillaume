@@ -26,7 +26,7 @@
 
 > [Navy](https://github.com/KuciaGuillaume/EPITECH/tree/master/Navy) (Battleship game)
 
-> [My current personal project](https://github.com/KuciaGuillaume/Virtual-Game-Machine)
+> [My current personal project](https://github.com/KuciaGuillaume/Virtual-Game-Machine) (A game that looks like (windows))
 
 > [Other repository](https://github.com/KuciaGuillaume?tab=repositories)
 
