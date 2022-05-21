@@ -26,6 +26,8 @@
 
 > [Navy](https://github.com/KuciaGuillaume/EPITECH/tree/master/Navy) (Battleship game)
 
+> [My current personal project](https://github.com/KuciaGuillaume/Virtual-Game-Machine)
+
 > [Other repository](https://github.com/KuciaGuillaume?tab=repositories)
 
 ### 🧰 Languages and Tools I have tried :
