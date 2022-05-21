@@ -26,6 +26,8 @@
 
 > [Navy](https://github.com/KuciaGuillaume/EPITECH/tree/master/Navy) (Battleship game)
 
+> [MY CSFML ENGINE](https://github.com/KuciaGuillaume/CSFML-ENGINE) (A big lib that simplifies csfml, display, print order and many more are automatically managed by my engine)
+
 > [My current personal project](https://github.com/KuciaGuillaume/Virtual-Game-Machine) (A game that looks like (windows))
 
 > [Other repository](https://github.com/KuciaGuillaume?tab=repositories)
