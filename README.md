@@ -41,7 +41,8 @@
 [![unity (1)](https://user-images.githubusercontent.com/91091263/145635166-161e0bd7-5e1a-4ef5-a1e4-6e34c5b5423a.png)](https://unity.com/fr)
 [![manette-de-jeu (1)](https://user-images.githubusercontent.com/91091263/148298690-626bce01-43a3-4eaa-a0fb-a7f8c5b0baca.png)](https://26.customprotocol.com/csfml/index.htm)
 [![ruby (1)](https://user-images.githubusercontent.com/91091263/148701729-11c9c0dc-edc6-42b4-97ca-061d8e5c14e4.png)](https://fr.wikipedia.org/wiki/Ruby)
-[![c++](![6132222](https://user-images.githubusercontent.com/91091263/169642345-eca8d856-234a-4cbc-9247-1a3d6fe07465.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![c- (1)](https://user-images.githubusercontent.com/91091263/169642387-624d3652-47f1-49b4-b0f0-e37bcb29ede3.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+
 
 
 
