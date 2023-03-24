@@ -41,14 +41,11 @@ In this GitHub repository, you will find some of my most successful projects, sh
 
 ## 🚀 My Services on Fiverr
 
-As an experienced developer, I specialize in several key areas to help you create high-performing applications and websites. Here are some of the services I offer on Fiverr:
+If you're looking for someone to create a game for you, I'm here to help! I offer game development services using GameMaker Studio or Unity and other programming languages. With my expertise, I can bring your game ideas to life and create an immersive gaming experience.
 
-Web Development: Building responsive and SEO-optimized websites using HTML, CSS, JavaScript, React, Angular, Vue.js, etc.
-Mobile App Development: Developing native and hybrid mobile applications for iOS and Android using React Native, Flutter, Swift, and Kotlin.
-Backend Development: Designing and developing RESTful and GraphQL APIs, using Node.js, Express, Django, Ruby on Rails, etc.
-Database Integration: Integrating relational and non-relational databases such as MySQL, PostgreSQL, MongoDB, Firebase, and more.
-Chatbot & AI Development: Creating chatbots and integrating artificial intelligence solutions to enhance user experience and automate processes.
-Testing & Maintenance: Rigorous testing of your applications, bug fixing, and ongoing maintenance to ensure optimal performance.
+Don't hesitate to contact me if you have any questions or if you're interested in working together on your game project. Let's make something great! 🚀🎮
+
+[Visit my Fiver](https://www.fiverr.com/guillaume_kucia?up_rollout=true)
 
 
 ## Stats
