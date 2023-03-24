@@ -34,7 +34,7 @@ In this GitHub repository, you will find some of my most successful projects, sh
 
 ### 🕹 Game Repositories
 
-| [Fiver (Faraway Island)](https://github.com/KuciaGuillaume/Faraway-Island-Clone-Fiver-) | Informations |
+| [Fiver (Faraway Island)](https://github.com/KuciaGuillaume/FiverFarawayIsland) | Informations |
 | :---: | :---: |
 | ![Capture 1](https://user-images.githubusercontent.com/91091263/227508738-68ab759e-0d32-49e8-8032-9fae1740ecad.png) | ![Capture 2](https://user-images.githubusercontent.com/91091263/227509924-1fbef38d-5ac5-4112-96fd-79894519cdbc.png)
 
