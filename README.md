@@ -49,6 +49,6 @@ If you're looking for someone to create a game for you, I'm here to help! I offe
 
 Don't hesitate to contact me if you have any questions or if you're interested in working together on your game project. Let's make something great! 🚀🎮
 
-[Visit my Fiver](https://www.fiverr.com/guillaume_kucia?up_rollout=true)
+[Visit my Fiverr](https://www.fiverr.com/guillaume_kucia?up_rollout=true)
 
 
