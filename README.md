@@ -1,18 +1,19 @@
 # Welcome on my github 💻
 [![banner](https://user-images.githubusercontent.com/91091263/145590468-5fa38990-3d53-4a49-b907-271bd856840d.jpg)](https://github.com/KuciaGuillaume)
 
-### Introduction
+##  🙋‍♂️ About Me
 - 📇 Name : `Guillaume`
 - 👨 Age : `19`
 - 🌆 City : `Montpellier`
 - 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 2)
 - 🏅 Member of the student council
+- 🛒 Fiver : [Show](https://fr.fiverr.com/guillaume_kucia?public_mode=true)
 - 📫 How to reach me:
 -  [guillaume.kucia@epitech.eu](https://www.google.com/intl/fr/gmail/about/) 
 -  [kuciaguillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/) 
    | [Discord](https://discord.com/) -> OneLife#8566
    
-### My skills
+## 💻 My skills
 
 | **Icon** | **Name** | **Affinity** | **Awareness** | **About** |
 | :--- | :---: | :---: | :---: | :---: |
@@ -27,28 +28,28 @@
 | ![tailwind](https://user-images.githubusercontent.com/91091263/227488809-6484ebe3-6c5d-4f3c-80ad-d01c0d83f36e.png) | Tailwind css | ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) ![star](https://user-images.githubusercontent.com/91091263/227468969-e2f1d397-28ef-483b-ac3c-cbf022899181.png) ![star](https://user-images.githubusercontent.com/91091263/227468969-e2f1d397-28ef-483b-ac3c-cbf022899181.png) ![star](https://user-images.githubusercontent.com/91091263/227468969-e2f1d397-28ef-483b-ac3c-cbf022899181.png) | ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 1](https://user-images.githubusercontent.com/91091263/227479300-ce668bed-af56-4ac3-8c25-7b951c440ae2.png) ![perf 1](https://user-images.githubusercontent.com/91091263/227479300-ce668bed-af56-4ac3-8c25-7b951c440ae2.png) | Replaces the classic css and big time saver |
 | ![haskell](https://user-images.githubusercontent.com/91091263/227490588-9bf32c08-3e67-42a9-8da3-5a5321afda2d.png) | Haskell | ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) ![star 2](https://user-images.githubusercontent.com/91091263/227472552-b89248a0-fd75-4ebb-963d-35c46fb8ad20.png) | ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 2](https://user-images.githubusercontent.com/91091263/227479588-01f68bb7-3586-4c23-a035-e1a20dc433e8.png) ![perf 1](https://user-images.githubusercontent.com/91091263/227479300-ce668bed-af56-4ac3-8c25-7b951c440ae2.png) | I'm not very familiar with the functional. |
 
+## 📚 My Portfolio
+
+In this GitHub repository, you will find some of my most successful projects, showcasing the diversity and quality of my work as a developer. Feel free to explore them to get an idea of my skills and experience.
+
+### 🕹 Game Repositories
+
+| [Fiver (Faraway Island)](https://github.com/KuciaGuillaume/Faraway-Island-Clone-Fiver-) | Informations |
+| :---: | :---: |
+| ![Capture 1](https://user-images.githubusercontent.com/91091263/227508738-68ab759e-0d32-49e8-8032-9fae1740ecad.png) | ![Capture 2](https://user-images.githubusercontent.com/91091263/227509924-1fbef38d-5ac5-4112-96fd-79894519cdbc.png)
 
 
-### Portfolio
-> [EPITECH](https://github.com/KuciaGuillaume/EPITECH) (You can find many of my EPITECH projects here) ([Epitech website](https://www.epitech.eu/)) -> [Github](https://github.com/EpitechPromo2026)
+## 🚀 My Services on Fiverr
 
-> [Makefile](https://github.com/KuciaGuillaume/MAKEFILE) (You can use this Makefile easily)
+As an experienced developer, I specialize in several key areas to help you create high-performing applications and websites. Here are some of the services I offer on Fiverr:
 
-> [My_hunter](https://github.com/KuciaGuillaume/My_hunter--CSFML-) (CSFML-linux)
+Web Development: Building responsive and SEO-optimized websites using HTML, CSS, JavaScript, React, Angular, Vue.js, etc.
+Mobile App Development: Developing native and hybrid mobile applications for iOS and Android using React Native, Flutter, Swift, and Kotlin.
+Backend Development: Designing and developing RESTful and GraphQL APIs, using Node.js, Express, Django, Ruby on Rails, etc.
+Database Integration: Integrating relational and non-relational databases such as MySQL, PostgreSQL, MongoDB, Firebase, and more.
+Chatbot & AI Development: Creating chatbots and integrating artificial intelligence solutions to enhance user experience and automate processes.
+Testing & Maintenance: Rigorous testing of your applications, bug fixing, and ongoing maintenance to ensure optimal performance.
 
-> [My_runner](https://github.com/KuciaGuillaume/EPITECH/tree/master/My_runner) (CSFML-linux)
-
-> [Life After Death](https://github.com/KuciaGuillaume/Game-Jam-2) (Second GameJam) (GML->Windows) -> [itch.io](https://life-after-death.itch.io/life-after-death)
-
-> [Tower Defense](https://github.com/KuciaGuillaume/GameJam1) (Frist GameJam) (Godot-linux) -> [itch.io](https://amiralhartman.itch.io/towerdefense) [Windows build is broken]
-
-> [Navy](https://github.com/KuciaGuillaume/EPITECH/tree/master/Navy) (Battleship game)
-
-> [MY CSFML ENGINE](https://github.com/KuciaGuillaume/CSFML-ENGINE) (A big lib that simplifies csfml, display, print order and many more are automatically managed by my engine)
-
-> [My current personal project](https://github.com/KuciaGuillaume/Virtual-Game-Machine) (A game that looks like (windows))
-
-> [Other repository](https://github.com/KuciaGuillaume?tab=repositories)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuciaGuillaume&count_private=true&show_icons=true) 
