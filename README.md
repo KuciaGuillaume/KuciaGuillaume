@@ -7,7 +7,7 @@
 - 🌆 City : `Montpellier`
 - 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 2)
 - 🏅 Member of the student council
-- 🛒 Fiver : [Show](https://fr.fiverr.com/guillaume_kucia?public_mode=true)
+- 🛒 Fiverr : [Show](https://fr.fiverr.com/guillaume_kucia?public_mode=true)
 - 📫 How to reach me:
 -  [guillaume.kucia@epitech.eu](https://www.google.com/intl/fr/gmail/about/) 
 -  [kuciaguillaume.pro@gmail.com](https://www.google.com/intl/fr/gmail/about/) 
@@ -34,7 +34,7 @@ In this GitHub repository, you will find some of my most successful projects, sh
 
 ### 🕹 Game Repositories
 
-| [Fiver (Faraway Island)](https://github.com/KuciaGuillaume/FiverFarawayIsland) | Informations |
+| [Fiverr (Faraway Island)](https://github.com/KuciaGuillaume/FiverFarawayIsland) | Informations |
 | :---: | :---: |
 | ![Capture 1](https://user-images.githubusercontent.com/91091263/227508738-68ab759e-0d32-49e8-8032-9fae1740ecad.png) | ![Capture 2](https://user-images.githubusercontent.com/91091263/227509924-1fbef38d-5ac5-4112-96fd-79894519cdbc.png)
 
