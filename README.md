@@ -32,6 +32,10 @@
 
 In this GitHub repository, you will find some of my most successful projects, showcasing the diversity and quality of my work as a developer. Feel free to explore them to get an idea of my skills and experience.
 
+### 🔴 My Current 3D Project with Unity
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/91091263/227572570-2102668a-a258-4d11-bcc3-bd553d65b081.gif)
+
 ### 🕹 Game Repositories
 
 | [Fiverr (Faraway Island)](https://github.com/KuciaGuillaume/FiverFarawayIsland) | Informations |
@@ -41,6 +45,13 @@ In this GitHub repository, you will find some of my most successful projects, sh
 | [VirtualMachine (On a game engine)](https://github.com/KuciaGuillaume/Virtual-Machine) |
 | :---:
 | ![image 1](https://user-images.githubusercontent.com/91091263/227542411-81a06877-db12-48b1-9b68-21f20aee3a34.png)
+
+### 🕹 Global Game Jam (Dev Game in 48 hours)
+
+| [LifeAfter Death](https://github.com/KuciaGuillaume/Game-Jam-2) | Informations |
+| :---: | :---: |
+| ![image 2](https://user-images.githubusercontent.com/91091263/227574324-1f9361c0-7837-4f9a-abbe-a0932a49cd7f.png) | Made at the beginning of our first year of study |
+
 
 
 ## 🚀 My Services on Fiverr
