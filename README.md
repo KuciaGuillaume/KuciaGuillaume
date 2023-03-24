@@ -52,11 +52,3 @@ Don't hesitate to contact me if you have any questions or if you're interested i
 [Visit my Fiver](https://www.fiverr.com/guillaume_kucia?up_rollout=true)
 
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuciaGuillaume&count_private=true&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuciaGuillaume&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-                                                              END
-
-
