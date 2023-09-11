@@ -3,9 +3,9 @@
 
 ##  🙋‍♂️ About Me
 - 📇 Name : `Guillaume`
-- 👨 Age : `19`
+- 👨 Age : `20`
 - 🌆 City : `Montpellier`
-- 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 2)
+- 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 3)
 - 🏅 Member of the student council
 - 🛒 Fiverr : [Show](https://fr.fiverr.com/guillaume_kucia?public_mode=true)
 - 📫 How to reach me:
