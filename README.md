@@ -3,7 +3,7 @@
 
 ##  🙋‍♂️ About Me
 - 📇 Name : `Guillaume`
-- 👨 Age : `20`
+- 👨 Age : `21`
 - 🌆 City : `Montpellier`
 - 🏢 College : [Epitech](https://www.epitech.eu/) (Tek 3)
 - 🏅 Member of the student council
